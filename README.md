@@ -1,4 +1,4 @@
-# proposal-array-grouping
+# proposal-array-grouping.
 
 A proposal to make grouping of items in an array easier.
 
