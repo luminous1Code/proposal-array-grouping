@@ -35,3 +35,5 @@ TODO
 
 - Lodash
   - [`_.groupBy`](https://lodash.com/docs/4.17.15#groupBy) ([850k downloads/week](https://www.npmjs.com/package/lodash.groupby))
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318f9ee&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
