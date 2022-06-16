@@ -1,6 +1,7 @@
 # Proposal-array-grouping.
 
 
+
 A proposal to make grouping of items in an array easier.
 
 ```js
